@@ -102,7 +102,7 @@ const Footer = () => {
     <dev>
    <Container>
       <Left>
-        <Logo>LAMA.</Logo>
+        <Logo>LALOO</Logo>
         <Desc>
           There are many variations of passages of Lorem Ipsum available, but
           the majority have suffered alteration in some form, by injected
@@ -152,14 +152,7 @@ const Footer = () => {
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
     </Container>
-    <Extra><p>
-          This is a Dummy Web App, Build for learning purpose. Design and
-          Developed by{' '}
-          <a href='http://achrafchouach.me/' target='_blank' rel='noreferrer'>
-            Achraf Chouach (☞ﾟヮﾟ)☞
-          </a>{' '}
-          .
-        </p></Extra>
+
     </dev>
   );
 };
